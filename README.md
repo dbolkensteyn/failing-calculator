@@ -2,7 +2,7 @@
 
 This very simple calculator project isn't yet working, and we need to your help to fix it!
 
-If you're not yet familiar with GitHub & AppVeyor, then read on! Otherwise, just go ahead and send your pull request :)
+If you're not yet familiar with GitHub & AppVeyor, then read on! Otherwise, just go ahead and send your pull request to fix the build :)
 
 On GitHub, a pull request is a change proposal that is not yet part (or merged in Git's jargon) into the `master` branch of the repository. Pull requests can be reviewed both from a technical and functional point of view, either manually by developers and product owners, or automatically by continuous integration and code analysis tools.
 
