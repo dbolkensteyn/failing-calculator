@@ -9,7 +9,7 @@ namespace CalculatorTest
         [TestMethod]
         public void Add()
         {
-            Assert.AreEqual(Calc.Add(40,1), 41);
+            Assert.AreEqual(Calc.Add(40, 2), 41);
         }
     }
 }
